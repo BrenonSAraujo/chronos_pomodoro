@@ -1,4 +1,4 @@
-# A Técnica Pomodoro 🍅
+<h1 align="center"> A Técnica Pomodoro 🍅</h1>
 
 A Técnica Pomodoro é uma metodologia de produtividade criada por Francesco Cirillo, que consiste em dividir o trabalho em blocos de tempo (os famosos "Pomodoros") intercalados com pausas. O objetivo é manter o foco total por um período curto e garantir descansos para evitar o cansaço mental.
 
